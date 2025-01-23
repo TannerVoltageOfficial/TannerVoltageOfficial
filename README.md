@@ -1,22 +1,21 @@
 # Hi there, I'm TannerVoltageOfficial! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for open-source projects and innovative solutions. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate software developer who loves open-source projects and innovative solutions. Here's a bit about me:
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning new technologies and improving my skills in software development.
-- 👯 I’m looking to collaborate on exciting open-source projects.
+- 🌱 I’m currently learning new technologies and improving my skills in software development
 - 💬 Ask me about web development, Python, or any tech-related topics.
 - 📫 How to reach me: [Email](mailto:tannervoltage@gmail.com)
 - ⚡ Fun fact: I love playing Minecraft.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frontend:** React, Angular, HTML, CSS, SASS
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Languages:** Python, JavaScript
+- **Frontend:** HTML, CSS, SASS
+- **Backend:** Node.js, Flask
+- **Databases:** Redis
+- **DevOps:** Docker, GitHub Actions
 - **Version Control:** Git, GitHub
 
 ## 📊 GitHub Stats
@@ -35,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - [Email](mailto:tannervoltage@gmail.com)
 
-You can explore my repositories and projects. Let's build something amazing together!
+You can go ahead and explore my repositories and projects. Let's build something amazing together!
 
 ---
 
