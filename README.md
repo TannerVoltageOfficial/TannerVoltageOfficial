@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 🌱 I’m currently learning new technologies and improving my skills in software development.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about web development, Python, or any tech-related topics.
-- 📫 How to reach me: [Email](mailto:tannervoltage@example.com)
+- 📫 How to reach me: [Email](mailto:tannervoltage@gmail.com)
 - ⚡ Fun fact: I love playing Minecraft.
 
 ## 🛠️ Technologies & Tools
@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 Connect with Me
 
-- [Email](mailto:tannervoltage@example.com)
+- [Email](mailto:tannervoltage@gmail.com)
 
-Feel free to explore my repositories and projects. Let's build something amazing together!
+You can explore my repositories and projects. Let's build something amazing together!
 
 ---
 
